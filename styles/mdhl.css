@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    }
+
+/* header{
+    background-image: -moz-element(url('../img/img-mdhl.jpg'));
+} */
+
+/* img{
+    width: 200;    
+} */
+
+a{
+    text-decoration: none;
+}
+
+/* nav{
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+} */
+
+/* p{
+    text-indent: 1,5 cm;
+} */
